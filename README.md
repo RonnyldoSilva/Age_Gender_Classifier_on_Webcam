@@ -3,7 +3,7 @@
 :star::star::star::star::star:
 
 
-See in action here: https://youtu.be/V1Z5dHkXyDs
+See it in action here: https://youtu.be/V1Z5dHkXyDs
 
 ### Models
 Download models from
