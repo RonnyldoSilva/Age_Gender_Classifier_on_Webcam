@@ -2,7 +2,7 @@
 
 See in action here: https://youtu.be/V1Z5dHkXyDs
 
-### Opencv 3.4 is requeried.
+### Opencv 3.4 is required.
 
 ### Run Code
 
@@ -17,3 +17,6 @@ make
 ```
 python AgeGender.py --input <input_file>(Leave blank for webcam)
 ```
+### Sample Result
+
+![](sample-output.jpg)
