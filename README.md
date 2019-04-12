@@ -19,4 +19,4 @@ python AgeGender.py --input <input_file>(Leave blank for webcam)
 ```
 ### Sample Result
 
-![](sample-output.jpg)
+![](https://github.com/RonnyldoSilva/Age-Gender-Face-Detection/blob/master/Images/alberto2.jpg)
