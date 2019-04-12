@@ -1,4 +1,7 @@
 # Age Gender Face Detection
+## Please, leave a star! 
+:star::star::star::star::star:
+
 
 See in action here: https://youtu.be/V1Z5dHkXyDs
 
@@ -27,3 +30,7 @@ python AgeGender.py --input <input_file>(Leave blank for webcam)
 ### Sample Result
 
 ![](https://github.com/RonnyldoSilva/Age-Gender-Face-Detection/blob/master/Images/alberto2.jpg)
+
+## Please, leave a star! 
+
+:star::star::star::star::star:
