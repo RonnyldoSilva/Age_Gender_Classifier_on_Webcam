@@ -1,5 +1,4 @@
 # Age Gender Face Detection
-### Please, leave a star! 
 :star::star::star::star::star:
 
 See it in action here: https://youtu.be/V1Z5dHkXyDs
@@ -7,10 +6,8 @@ See it in action here: https://youtu.be/V1Z5dHkXyDs
 ### Models
 Download models from:
 
-```
-Gender Net: https://www.dropbox.com/s/iyv483wz7ztr9gh/gender_net.caffemodel?dl=0"
-Age Net: https://www.dropbox.com/s/xfb20y596869vbb/age_net.caffemodel?dl=0"
-```
+* Gender Net: https://www.dropbox.com/s/iyv483wz7ztr9gh/gender_net.caffemodel?dl=0"
+* Age Net: https://www.dropbox.com/s/xfb20y596869vbb/age_net.caffemodel?dl=0"
 
 ### Opencv 3.4 is required.
 
