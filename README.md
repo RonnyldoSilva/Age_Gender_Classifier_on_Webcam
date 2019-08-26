@@ -1,6 +1,8 @@
 # Age Gender Face Detection Opencv C++ and Python
 :star::star::star::star::star:
 
+This is a classifier of age and gender:
+
 See it in action here: https://youtu.be/V1Z5dHkXyDs
 
 ### Models
