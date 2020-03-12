@@ -1,4 +1,4 @@
-# Age Gender Face Detection Opencv C++ and Python 
+# Webcam Age Gender Face Detection (Opencv C++ / Python) 
 :star::star::star::star::star: 
 
 This is a classifier of age and gender:
