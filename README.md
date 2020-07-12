@@ -1,4 +1,7 @@
 # Webcam Age Gender Classifier
+
+Just test on ubuntu 18.04 and OpenCV 3.4
+
 # (Opencv C++ / Python) 
 :star::star::star::star::star: 
 
